@@ -1,12 +1,12 @@
 # Pratikum3
 
-1. 🧾 Input Bilangan
+1. Input Bilangan
    - Program meminta pengguna memasukkan dua bilangan:
      a = float(input("Masukkan bilangan pertama: "))
      b = float(input("Masukkan bilangan kedua: "))
    - Tipe data menggunakan `float` agar bisa menangani bilangan desimal.
    
-2. 🔍 Proses Perbandingan
+2. Proses Perbandingan
    - Program membandingkan nilai `a` dan `b` menggunakan struktur `if...elif...else`:
 
      a > b:
@@ -18,10 +18,10 @@
      else:
        - Jika nilainya sama, cetak: "Kedua bilangan sama besar: {a}"
 
-3. 🖨️ Output
+3. Output
    - Program menampilkan hasil dari perbandingan secara langsung ke layar.
 
-4. ✅ Contoh Eksekusi
+4. Contoh Eksekusi
    - Input:
      - a = 21
      - b = 42
